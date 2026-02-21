@@ -1,0 +1,4 @@
+.env
+sky
+__pycache__
+*/**DS_Store
